@@ -2,6 +2,12 @@
 
 Aplicação exemplo usando Python Django para demonstrar uso de bancos de dados em nuvem e deployment em VMs.
 
+Instale as dependências para desenvolvimento:
+
+```
+python -m pip install -r requirements/devo.txt
+```
+
 Defina as seguintes variáveis de ambiente:
 
 ```
